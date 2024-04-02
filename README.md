@@ -1,4 +1,4 @@
-#### Curso de Java Spring Professional
+# Desafios: Curso de Java Spring Professional
 
 Este repositório contém os desafios realizados durante a formação Java Spring Professional, ministrado pelo professor e Dr. Nelio Alves.
 
